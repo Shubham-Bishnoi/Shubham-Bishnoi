@@ -51,7 +51,7 @@ I'm a passionate **Software Developer** with expertise in building scalable web 
 ---
 
 ### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubham-Bishnoi1&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubham-Bishnoi&show_icons=true&theme=radical)
 
 ---
 
