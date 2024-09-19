@@ -9,8 +9,8 @@ I'm a passionate **Software Developer** with expertise in building scalable web 
 - Data Structures & Algorithms (C++, DSA)
 - AI & Machine Learning (Python, TensorFlow)
 
-![GitHub followers](https://img.shields.io/github/followers/Shubham-Bishnoi1?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Shubham-Bishnoi1?label=Stars&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Shubham-Bishnoi?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Shubham-Bishnoi?label=Stars&style=social)
 
 ---
 
@@ -45,8 +45,8 @@ I'm a passionate **Software Developer** with expertise in building scalable web 
 ---
 
 ### Notable Projects:
-- **[ProjectName1](https://github.com/Shubham-Bishnoi1/ProjectName1)**: A full-stack e-commerce platform that supports user authentication, product management, and secure payments.
-- **[ProjectName2](https://github.com/Shubham-Bishnoi1/ProjectName2)**: A real-time chat application built with WebSockets and Node.js.
+- **[ProjectName1](https://github.com/Shubham-Bishnoi/ProjectName1)**: A full-stack e-commerce platform that supports user authentication, product management, and secure payments.
+- **[ProjectName2](https://github.com/Shubham-Bishnoi/ProjectName2)**: A real-time chat application built with WebSockets and Node.js.
 
 ---
 
@@ -56,8 +56,8 @@ I'm a passionate **Software Developer** with expertise in building scalable web 
 ---
 
 ### Featured Projects
-- [Project 1](https://github.com/Shubham-Bishnoi1/Project1): A full-stack web application built with React and Node.js.
-- [Project 2](https://github.com/Shubham-Bishnoi1/Project2): An open-source Python library for data analysis.
+- [Project 1](https://github.com/Shubham-Bishnoi/Project1): A full-stack web application built with React and Node.js.
+- [Project 2](https://github.com/Shubham-Bishnoi/Project2): An open-source Python library for data analysis.
 
 ---
 
