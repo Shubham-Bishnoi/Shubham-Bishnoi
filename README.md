@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shubham Bishnoi!
+# Hi there , I'm Shubham Bishnoi!
 
 I'm a passionate **Software Developer** with expertise in building scalable web applications and open-source projects. I specialize in full-stack development, focusing on creating seamless and user-friendly digital experiences.
 
